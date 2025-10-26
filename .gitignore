@@ -416,3 +416,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Virtual environment used for Python development
+venv/
+.venv/
