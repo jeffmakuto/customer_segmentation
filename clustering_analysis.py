@@ -27,7 +27,6 @@ Module-level assumptions:
         - The environment has the required packages installed (see `requirements.txt`).
 
 """
-
 import os
 import sys
 from pathlib import Path
@@ -71,7 +70,7 @@ def main():
           robust preprocessing, cross-validation, and stability checks are
           recommended.
     """
-    # Path to the downloaded Excel file (adjust if you moved it)
+    # Path to the downloaded Excel file
     data_path = Path.home() / ".cache" / "kagglehub" / "datasets" / "emmanuelkens" / "kenya-supermarkets-data" / "versions" / "2" / "Supermarket Data.xlsx"
     if not data_path.exists():
         print("Dataset file not found:", data_path)
