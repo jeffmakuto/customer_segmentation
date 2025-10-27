@@ -1,2 +1,0 @@
-Cluster 0: 1434 customers. High on: change, month. Low on: no_of_items, variation, total.
-Cluster 1: 30 customers. High on: no_of_items, variation, total. Low on: change, month.

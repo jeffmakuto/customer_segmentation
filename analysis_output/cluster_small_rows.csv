@@ -1,0 +1,86 @@
+supermarket,no_of_items,variation,total,paid,change,type,food,snack,beverage,consumables,high_end,asset,fixed_asset,date,mall,time,time_type,type_market,location,loc_category,day,day_type,24hr,day_1,month,year,hour,item_no_cat,total_cat,paid_cat,change_cat,datetime,cluster
+nakumatt,22,3,5611.0,5611,0.0,card,yes,no,no,yes,yes,no,no,2016-12-24 00:00:00,no,16:26:00,afternoon,chain,cbd,mid,wednesday,weekday,yes,24,12,2016.0,16,B,0,2,1,2016-12-24 16:26:00,1
+chandarana,32,3,7955.0,7955,0.0,mpesa,yes,no,no,yes,yes,no,no,2017-01-03 00:00:00,yes,19:03:00,night,median,yaya,high,tuesday,weekday,no,3,1,2017.0,19,B,0,3,1,2017-01-03 19:03:00,1
+tuskys,33,6,13005.0,13001,0.0,card,yes,no,no,yes,yes,yes,no,2016-12-07 00:00:00,yes,08:56:00,morning,chain,donholm,mid,wednesday,weekday,no,7,12,2016.0,8,B,0,0,1,2016-12-07 08:56:00,1
+nakumatt,1,1,2420.0,2460,0.0,card,no,no,no,no,yes,no,no,2016-11-11 00:00:00,yes,08:16:00,morning,chain,kilimani,high,friday,weekday,no,11,11,2016.0,8,A,2,4,1,2016-11-11 08:16:00,1
+nakumatt,12,2,4926.0,4926,0.0,card,yes,no,no,no,yes,no,no,2016-11-11 00:00:00,yes,08:44:00,morning,chain,kilimani,high,friday,weekday,no,11,11,2016.0,8,B,0,0,1,2016-11-11 08:44:00,1
+nakumatt,4,2,5439.0,5439,0.0,mpesa,yes,no,no,no,no,no,no,2016-11-28 00:00:00,yes,06:49:00,morning,chain,kilimani,high,monday,weekday,no,28,11,2016.0,6,B,0,2,1,2016-11-28 06:49:00,1
+nakumatt,5,1,8110.0,8110,0.0,mpesa,no,no,no,no,yes,no,no,2017-01-13 00:00:00,yes,17:40:00,afternoon,chain,kilimani,high,friday,weekday,no,13,1,2017.0,17,B,0,3,1,2017-01-13 17:40:00,1
+nakumatt,5,1,850.0,850,0.0,card,no,no,yes,no,no,no,no,2016-11-29 00:00:00,yes,05:51:00,night,chain,kilimani,high,thursday,weekday,no,29,11,2016.0,5,B,1,1,1,2016-11-29 05:51:00,1
+naivas,10,4,2903.0,2903,0.0,mpesa,yes,no,yes,yes,yes,yes,no,2017-05-21 00:00:00,no,14:21:00,afternoon,chain,umoja,mid,sunday,weekend,no,21,5,2017.0,14,B,3,5,1,2017-05-21 14:21:00,1
+nakumatt,14,3,2183.0,2183,0.0,card,yes,yes,no,no,yes,no,no,2017-01-15 00:00:00,no,18:16:00,afternoon,chain,cbd,mid,sunday,weekend,yes,15,1,2017.0,18,B,4,1,1,2017-01-15 18:16:00,1
+nakumatt,6,3,3585.0,3585,0.0,mpesa,no,yes,yes,no,no,yes,yes,2017-03-10 00:00:00,no,16:30:00,afternoon,chain,eldoret,mid,friday,weekday,no,10,3,2017.0,16,B,0,6,1,2017-03-10 16:30:00,1
+tuskys,2,2,140.0,140,0.0,mpesa,yes,no,yes,no,no,no,no,2017-06-02 00:00:00,no,18:22:00,afternoon,chain,cbd,mid,friday,weekday,no,2,6,2017.0,18,A,1,1,1,2017-06-02 18:22:00,1
+nakumatt,2,2,212.0,212,0.0,card,yes,yes,no,no,no,no,no,2017-06-02 00:00:00,no,15:02:00,afternoon,chain,cbd,mid,friday,weekday,yes,2,6,2017.0,15,A,1,1,1,2017-06-02 15:02:00,1
+nakumatt,10,3,3440.0,3440,0.0,mpesa,yes,no,yes,no,no,yes,no,2017-06-05 00:00:00,no,21:22:00,night,chain,cbd,mid,monday,weekday,yes,5,6,2017.0,21,B,0,6,1,2017-06-05 21:22:00,1
+tuskys,7,3,780.0,780,0.0,mpesa,yes,no,no,yes,no,yes,no,2017-06-05 00:00:00,no,21:32:00,night,chain,cbd,mid,monday,weekday,no,5,6,2017.0,21,B,1,1,1,2017-06-05 21:32:00,1
+tuskys,2,1,1141.0,1141,0.0,mpesa,yes,no,no,no,no,no,no,2017-06-05 00:00:00,no,21:41:00,night,chain,cbd,mid,monday,weekday,no,5,6,2017.0,21,A,1,1,1,2017-06-05 21:41:00,1
+nakumatt,2,1,199.0,199,0.0,card,yes,no,no,no,no,no,no,2017-06-05 00:00:00,no,17:14:00,afternoon,chain,cbd,mid,monday,weekday,yes,5,6,2017.0,17,A,1,1,1,2017-06-05 17:14:00,1
+tuskys,5,2,526.0,526,0.0,mpesa,no,yes,yes,no,no,no,no,2017-06-05 00:00:00,no,19:22:00,night,chain,cbd,mid,monday,weekday,no,5,6,2017.0,19,B,1,1,1,2017-06-05 19:22:00,1
+nakumatt,5,2,750.0,750,0.0,card,yes,yes,no,no,yes,no,no,2017-06-06 00:00:00,yes,18:49:00,afternoon,chain,kilimani,high,tuesday,weekday,no,6,6,2017.0,18,B,1,1,1,2017-06-06 18:49:00,1
+nakumatt,6,3,17350.0,17350,0.0,card,no,yes,no,no,yes,yes,yes,2017-06-06 00:00:00,yes,10:45:00,morning,chain,kilimani,high,tuesday,weekday,no,6,6,2017.0,10,B,0,0,1,2017-06-06 10:45:00,1
+acacia,4,2,705.0,705,0.0,mpesa,no,yes,yes,no,yes,no,no,2017-06-10 00:00:00,no,20:15:00,night,small,saika,mid,saturday,weekend,no,10,6,2017.0,20,B,1,1,1,2017-06-10 20:15:00,1
+nakumatt,3,2,410.0,410,0.0,mpesa,no,yes,yes,no,yes,no,no,2017-05-23 00:00:00,no,16:28:00,afternoon,chain,cbd,mid,tuesday,weekday,yes,23,5,2017.0,16,B,1,1,1,2017-05-23 16:28:00,1
+tumaini,2,2,150.0,150,0.0,mpesa,no,yes,yes,no,no,no,no,2017-08-22 00:00:00,no,17:07:00,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017.0,17,A,1,1,1,2017-08-22 17:07:00,1
+tumaini,9,4,497.0,497,0.0,mpesa,yes,yes,yes,yes,no,no,no,2017-08-22 00:00:00,no,17:20:00,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017.0,17,B,1,1,1,2017-08-22 17:20:00,1
+tumaini,3,2,250.0,250,0.0,mpesa,no,yes,no,yes,no,no,no,2017-08-22 00:00:00,no,16:58:00,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017.0,16,B,1,1,1,2017-08-22 16:58:00,1
+tumaini,5,2,692.0,692,0.0,mpesa,yes,yes,no,no,no,no,no,2017-08-22 00:00:00,no,17:18:00,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017.0,17,B,1,1,1,2017-08-22 17:18:00,1
+tumaini,4,1,275.0,275,0.0,mpesa,no,yes,no,no,no,no,no,2017-08-22 00:00:00,no,17:29:00,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017.0,17,B,1,1,1,2017-08-22 17:29:00,1
+tumaini,1,1,450.0,450,0.0,mpesa,no,no,no,yes,no,no,no,2017-08-22 00:00:00,no,17:47:00,evening,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017.0,17,A,1,1,1,2017-08-22 17:47:00,1
+tumaini,1,1,170.0,170,0.0,mpesa,yes,no,no,no,no,no,no,2017-08-22 00:00:00,no,15:30:00,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017.0,15,A,1,1,1,2017-08-22 15:30:00,1
+cleanshelf,6,2,515.0,515,0.0,card,no,no,yes,no,no,yes,no,2017-08-22 00:00:00,no,15:28:00,afternoon,chain,ongata rongai,mid,Tuesday,weekday,no,22,8,2017.0,15,B,1,1,1,2017-08-22 15:28:00,1
+tumaini,2,1,273.0,273,0.0,mpesa,yes,no,no,no,no,no,no,2017-08-26 00:00:00,no,14:30:00,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017.0,14,A,1,1,1,2017-08-26 14:30:00,1
+tumaini,3,2,110.0,110,0.0,mpesa,yes,yes,no,no,no,no,no,2017-08-26 00:00:00,no,13:36:00,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017.0,13,B,1,1,1,2017-08-26 13:36:00,1
+tumaini,5,2,823.0,823,0.0,mpesa,yes,no,no,yes,no,no,no,2017-08-26 00:00:00,no,17:35:00,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017.0,17,B,1,1,1,2017-08-26 17:35:00,1
+tumaini,16,5,2304.0,3000,696.0,mpesa,yes,yes,yes,yes,no,yes,no,2017-08-26 00:00:00,no,15:38:00,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017.0,15,B,0,5,1,2017-08-26 15:38:00,1
+tumaini,4,2,718.0,718,0.0,mpesa,yes,no,yes,no,no,no,no,2017-08-26 00:00:00,no,15:58:00,afternoon,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017.0,15,B,1,1,1,2017-08-26 15:58:00,1
+tumaini,2,1,154.0,154,0.0,mpesa,no,no,yes,no,no,no,no,2017-08-26 00:00:00,no,16:29:00,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017.0,16,A,1,1,1,2017-08-26 16:29:00,1
+tumaini,4,2,1119.0,1119,0.0,mpesa,yes,no,no,yes,no,no,no,2017-08-25 00:00:00,no,20:47:00,night,chain,ongata rongai,mid,Friday,weekday,no,25,8,2017.0,20,B,1,1,1,2017-08-25 20:47:00,1
+tumaini,4,2,626.0,626,0.0,mpesa,yes,yes,no,no,no,no,no,2017-08-26 00:00:00,no,17:27:00,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017.0,17,B,1,1,1,2017-08-26 17:27:00,1
+tumaini,1,1,100.0,100,0.0,mpesa,yes,no,no,no,no,no,no,2017-08-26 00:00:00,no,09:23:00,morning,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017.0,9,A,1,1,1,2017-08-26 09:23:00,1
+tumaini,4,1,468.0,468,0.0,mpesa,yes,no,no,no,no,no,no,2017-08-26 00:00:00,no,17:40:00,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017.0,17,B,1,1,1,2017-08-26 17:40:00,1
+tumaini,11,3,2079.0,2079,0.0,mpesa,yes,no,no,yes,no,yes,no,2017-08-26 00:00:00,no,17:40:00,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017.0,17,B,4,1,1,2017-08-26 17:40:00,1
+tumaini,1,1,1200.0,1200,0.0,mpesa,yes,no,no,no,no,no,no,2017-08-26 00:00:00,no,16:47:00,evening,chain,ongata rongai,mid,saturday,weekend,no,26,8,2017.0,16,A,1,1,1,2017-08-26 16:47:00,1
+tuskys,7,2,1128.0,1128,0.0,card,yes,no,no,yes,no,no,no,2017-08-29 00:00:00,no,17:38:00,evening,chain,ongata rongai,mid,Tuesday,weekday,no,29,8,2017.0,17,B,1,1,1,2017-08-29 17:38:00,1
+cleanshelf,2,2,155.0,155,0.0,mpesa,no,yes,yes,no,no,no,no,2017-09-03 00:00:00,no,14:42:00,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017.0,14,A,1,1,1,2017-09-03 14:42:00,1
+cleanshelf,3,2,408.0,408,0.0,card,yes,no,yes,no,no,no,no,2017-09-03 00:00:00,no,15:31:00,afternoon,chain,ongata rongai,mid,Sunday,weekend,no,3,9,2017.0,15,B,1,1,1,2017-09-03 15:31:00,1
+nakumatt,1,1,1250.0,1250,0.0,mpesa,no,no,no,yes,no,no,no,2017-08-28 00:00:00,yes,21:03:00,night,chain,junction,mid,Monday,weekday,no,28,8,2017.0,21,A,1,1,1,2017-08-28 21:03:00,1
+tuskys,6,2,1842.0,1842,0.0,mpesa,yes,no,yes,no,no,no,no,2017-09-05 00:00:00,no,21:23:00,night,chain,cbd,mid,Tuesday,weekday,no,5,9,2017.0,21,B,4,1,1,2017-09-05 21:23:00,1
+nakumatt,4,1,1779.0,1779,0.0,mpesa,yes,no,no,no,no,no,no,2017-05-26 00:00:00,yes,20:25:00,night,chain,junction,mid,Tuesday,weekday,no,26,5,2017.0,20,B,4,1,1,2017-05-26 20:25:00,1
+nakumatt,6,2,1712.0,1712,0.0,card,yes,no,yes,no,no,no,no,2017-06-30 00:00:00,no,21:07:00,night,chain,cbd,mid,Friday,weekday,yes,30,6,2017.0,21,B,4,1,1,2017-06-30 21:07:00,1
+nakumatt,2,2,1380.0,1380,0.0,mpesa,no,no,yes,no,no,yes,no,2017-07-24 00:00:00,yes,14:33:00,afternoon,chain,prestige,mid,saturday,weekend,no,24,7,2017.0,14,A,1,1,1,2017-07-24 14:33:00,1
+nakumatt,3,2,971.0,971,0.0,mpesa,no,no,yes,no,no,yes,no,2017-07-25 00:00:00,no,22:02:00,night,chain,cbd,mid,Tuesday,weekday,yes,25,7,2017.0,22,B,1,1,1,2017-07-25 22:02:00,1
+nakumatt,4,2,3970.0,3970,0.0,mpesa,no,no,yes,no,yes,yes,no,2017-07-04 00:00:00,yes,20:18:00,night,chain,junction,mid,Friday,weekday,no,4,7,2017.0,20,B,5,7,1,2017-07-04 20:18:00,1
+nakumatt,2,2,516.0,516,0.0,card,yes,no,yes,no,no,no,no,2017-07-17 00:00:00,yes,20:58:00,night,chain,junction,mid,Thursday,weekday,no,17,7,2017.0,20,A,1,1,1,2017-07-17 20:58:00,1
+nakumatt,10,5,6259.0,6259,0.0,card,yes,yes,no,yes,yes,yes,no,2017-07-11 00:00:00,yes,19:29:00,night,chain,junction,mid,Friday,weekday,no,11,7,2017.0,19,B,0,0,1,2017-07-11 19:29:00,1
+nakumatt,1,1,545.0,545,0.0,mpesa,no,no,no,no,no,yes,no,2017-08-02 00:00:00,yes,20:30:00,night,chain,junction,mid,Wednesday,weekday,no,2,8,2017.0,20,A,1,1,1,2017-08-02 20:30:00,1
+chandarana,4,2,1714.0,1714,0.0,card,yes,no,no,no,yes,no,no,2017-07-11 00:00:00,yes,20:10:00,night,chain,adlife,high,Tuesday,weekday,no,11,7,2017.0,20,B,4,1,1,2017-07-11 20:10:00,1
+eastmatt,1,1,98.0,98,0.0,card,no,no,no,no,no,yes,no,2017-06-14 00:00:00,no,08:56:00,morning,chain,cbd,mid,Thursday,weekday,no,14,6,2017.0,8,A,1,1,1,2017-06-14 08:56:00,1
+tuskys,3,3,395.0,395,0.0,card,no,yes,yes,no,yes,no,no,2017-06-17 00:00:00,no,18:23:00,evening,chain,cbd,mid,saturday,weekend,no,17,6,2017.0,18,B,1,1,1,2017-06-17 18:23:00,1
+nakumatt,5,4,424.0,424,0.0,card,no,yes,yes,no,yes,yes,no,2017-06-17 00:00:00,no,17:08:00,evening,chain,karen,high,saturday,weekend,no,17,6,2017.0,17,B,1,1,1,2017-06-17 17:08:00,1
+nakumatt,2,2,115.0,115,0.0,mpesa,no,no,yes,yes,no,no,no,2017-06-22 00:00:00,no,07:25:00,morning,chain,cbd,mid,Thursday,weekday,yes,22,6,2017.0,7,A,1,1,1,2017-06-22 07:25:00,1
+nakumatt,2,2,525.0,525,0.0,mpesa,yes,no,no,yes,no,no,no,2017-06-23 00:00:00,no,23:17:00,night,chain,cbd,mid,Friday,weekday,yes,23,6,2017.0,23,A,1,1,1,2017-06-23 23:17:00,1
+zucchini,4,2,1226.0,1226,0.0,card,yes,no,no,no,yes,no,no,2017-07-13 00:00:00,yes,08:27:00,morning,chain,junction,mid,Thursday,weekday,no,13,7,2017.0,8,B,1,1,1,2017-07-13 08:27:00,1
+tuskys,16,5,2835.0,3000,165.0,cash,yes,yes,yes,yes,yes,no,no,2017-06-01 00:00:00,yes,13:05:00,afternoon,chain,greenspan,mid,Thursday,weekday,no,1,6,2017.0,13,B,3,5,1,2017-06-01 13:05:00,1
+tuskys,21,5,12475.0,12475,0.0,card,yes,yes,yes,yes,yes,no,no,2017-07-10 00:00:00,no,21:36:00,night,chain,cbd,mid,Monday,weekday,no,10,7,2017.0,21,B,6,8,1,2017-07-10 21:36:00,1
+tuskys,22,5,3834.0,4000,166.0,cash,yes,yes,yes,yes,yes,no,no,2017-06-18 00:00:00,no,10:09:00,morning,chain,eastlands,mid,Sunday,weekend,no,18,6,2017.0,10,B,5,7,1,2017-06-18 10:09:00,1
+nakumatt,2,3,1130.0,1130,0.0,mpesa,no,no,no,yes,yes,yes,no,2017-08-22 00:00:00,yes,18:50:00,evening,chain,junction,mid,Tuesday,weekday,no,22,8,2017.0,18,A,1,1,1,2017-08-22 18:50:00,1
+nakumatt,4,4,1359.0,1359,0.0,mpesa,yes,yes,yes,no,yes,no,no,2017-04-07 00:00:00,no,20:16:00,night,chain,cbd,mid,Friday,weekday,yes,7,4,2017.0,20,B,1,1,1,2017-04-07 20:16:00,1
+nakumatt,3,3,388.0,388,0.0,card,no,yes,no,no,yes,yes,no,2017-05-29 00:00:00,yes,11:30:00,morning,chain,prestige,high,Monday,weekday,no,29,5,2017.0,11,B,1,1,1,2017-05-29 11:30:00,1
+naivas,17,5,2806.0,3000,194.0,cash,yes,yes,yes,yes,yes,no,no,2017-05-23 00:00:00,no,14:09:00,afternoon,chain,ruaraka,mid,Tuesday,weekday,no,23,5,2017.0,14,B,3,5,1,2017-05-23 14:09:00,1
+nakumatt,14,5,2183.0,2183,0.0,card,yes,yes,yes,no,yes,yes,no,2017-01-15 00:00:00,no,18:09:00,evening,chain,mega,mid,Sunday,weekend,no,15,1,2017.0,18,B,4,1,1,2017-01-15 18:09:00,1
+nakumatt,1,1,1250.0,1250,0.0,mpesa,no,no,no,yes,no,no,no,2017-08-28 00:00:00,yes,21:03:00,night,chain,junction,mid,Monday,weekday,no,28,8,2017.0,21,A,1,1,1,2017-08-28 21:03:00,1
+tuskys,21,5,12475.0,12475,0.0,card,yes,yes,yes,yes,yes,no,no,2017-07-10 00:00:00,no,21:36:00,night,chain,cbd,mid,monday,weekday,no,10,7,2017.0,21,B,6,8,1,2017-07-10 21:36:00,1
+tuskys,22,5,3834.0,4000,166.0,cash,yes,yes,yes,yes,yes,no,no,2017-06-18 00:00:00,no,10:09:00,morning,chain,eastlands,mid,Sunday,weekend,no,18,6,2017.0,10,B,5,7,1,2017-06-18 10:09:00,1
+acacia,12,1,2024.0,2024,0.0,mpesa,yes,yes,yes,no,yes,no,no,2017-08-12 00:00:00,no,18:25:00,evening,small,saika,mid,saturday,weekend,no,12,8,2017.0,18,B,4,1,1,2017-08-12 18:25:00,1
+nakumatt,2,2,725.0,725,0.0,mpesa,no,yes,no,no,no,yes,no,2017-07-21 00:00:00,yes,22:01:00,night,chain,junction,high,Friday,weekday,yes,21,7,2017.0,22,A,1,1,1,2017-07-21 22:01:00,1
+zucchini,18,1,2654.71,2655,0.0,credit card,yes,no,no,no,no,no,no,2017-07-11 00:00:00,yes,19:54:00,night,chain,junction,high,Tuesday,weekday,no,11,7,2017.0,19,B,3,4,1,2017-07-11 19:54:00,1
+tuskys,8,3,965.0,965,0.0,credit card,yes,yes,no,yes,no,no,no,2017-06-15 00:00:00,yes,20:11:00,night,chain,donholm,mid,Thursday,weekday,no,15,6,2017.0,20,B,1,1,1,2017-06-15 20:11:00,1
+tuskys,11,3,3895.0,3895,0.0,credit card,yes,no,no,yes,no,yes,no,2017-06-15 00:00:00,yes,20:46:00,night,chain,donholm,mid,Thursday,weekday,no,15,6,2017.0,20,B,5,7,1,2017-06-15 20:46:00,1
+nakumatt,3,2,410.0,410,0.0,mpesa,yes,no,yes,no,no,no,no,2017-05-23 00:00:00,no,16:28:00,evening,chain,cbd,mid,Tuesday,weekday,yes,23,5,2017.0,16,B,1,1,1,2017-05-23 16:28:00,1
+nakumatt,5,1,2450.0,2450,0.0,mpesa,no,no,no,yes,no,no,no,2017-08-03 00:00:00,yes,20:18:00,night,chain,junction,high,Thursday,weekday,no,3,8,2017.0,20,B,2,4,1,2017-08-03 20:18:00,1
+nakumatt,3,1,300.0,300,0.0,mpesa,yes,no,no,no,no,no,no,2017-07-09 00:00:00,yes,14:23:00,afternoon,chain,junction,high,Sunday,weekend,no,9,7,2017.0,14,B,1,1,1,2017-07-09 14:23:00,1
+nakumatt,4,1,526.0,526,0.0,mpesa,yes,no,no,no,no,no,no,2015-11-12 00:00:00,yes,17:10:00,evening,chain,junction,high,Thursday,weekday,no,12,11,2015.0,17,B,1,1,1,2015-11-12 17:10:00,1
+tuskys,5,3,331.0,331,0.0,mpesa,yes,yes,no,yes,no,no,no,2017-06-04 00:00:00,yes,13:12:00,afternoon,chain,donholm,mid,Sunday,weekday,no,4,6,2017.0,13,B,1,1,1,2017-06-04 13:12:00,1
+tuskys,2,3,1230.0,1230,0.0,mpesa,yes,no,no,yes,yes,no,no,2017-06-15 00:00:00,no,19:26:00,night,chain,cbd,mid,Thursday,weekday,no,15,6,2017.0,19,A,1,1,1,2017-06-15 19:26:00,1
+nakumatt,2,3,516.0,516,0.0,card,yes,no,yes,no,yes,no,no,2017-07-17 00:00:00,yes,21:00:00,night,chain,junction,mid,Monday,weekday,no,17,7,2017.0,21,A,1,1,1,2017-07-17 21:00:00,1
